@@ -166,7 +166,7 @@ print(sqrt(Mean.Sq))
 coef(lm.hbk)
 
 par(mfcol=c(2,2),mar=c(3,4,4,1))
-plot.lm(lm.hbk)                    
+plot(lm.hbk)                    
 bringToTop()
 
 
