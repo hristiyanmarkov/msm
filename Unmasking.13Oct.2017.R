@@ -10,7 +10,7 @@
 #	Journal of the American Statistical Association 85, 633-639. 
 #
 #  [2]	P. J. Rousseeuw and K. van Driessen (1999)A fast algorithm for the minimum covariance determinant estimator. 
-#  	Technometrics 41, 212–223. 
+#  	Technometrics 41, 212â€“223. 
 #
 #  [3]	P. J. Rousseeuw and K. van Driessen (1999) Computing LTS Regression for Large Data Sets, Technical Report, 
 #       University of Antwerp, submitted 
@@ -75,7 +75,7 @@ abline(coef(OneStep.lts.starsCYG),col="red")
 
 
 par(mfcol=c(2,2),mar=c(3,4,4,1))
-plot.lm(OneStep.lts.starsCYG)                    
+plot(OneStep.lts.starsCYG)                    
 bringToTop()
 
 #
