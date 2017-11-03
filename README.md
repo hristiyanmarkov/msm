@@ -27,3 +27,9 @@
     L.minor.dat
     
     Chwirut2.dat
+
+## Лекция 3 ноември
+
+Скриптът за тази лекция е:
+    
+    VGAM_iris.R
