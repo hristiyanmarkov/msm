@@ -53,3 +53,12 @@
     Annual.max.dat
     
     EVD_vgam_FMI_1.12.2017.R
+    
+## Лекция 19 декември
+
+Файловете за тази лекция са:
+
+    FMI_GPD.pdf
+    
+    Examples_gpd_19.12.2017.R
+    
