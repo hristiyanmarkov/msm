@@ -42,7 +42,7 @@
 
     mixtures.22.Nov.2017.zip
     
-## Лекция 1 декември
+## Лекция 1 декември (Vector Generalized Linear Models, Generalized Extreme Value)
 
 Файловете за тази лекция са:
 
@@ -50,7 +50,7 @@
     
     EVD_vgam_FMI_1.12.2017.R
     
-## Лекция 19 декември
+## Лекция 19 декември (Generalized Pareto Distribution)
 
 Файловете за тази лекция са:
 
@@ -59,7 +59,7 @@
     Examples_gpd_19.12.2017.R  
 
 
-## Лекция 5 януари
+## Лекция 5 януари (Principal Components Analysis)
 
 Файловете за тази лекция са:
 
@@ -67,13 +67,13 @@
     
     J_W_AMSA.pdf
     
-## Лекция 9 януари
+## Лекция 9 януари (Mixture/Flexible Discriminant Analysis)
 
 Файловете за тази лекция са:
 
     FDA_example.R
     
-## Лекция 16 януари
+## Лекция 16 януари (Quantile Regression)
 
 Файловете за тази лекция са:
 
