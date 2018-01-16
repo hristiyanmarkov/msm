@@ -73,3 +73,14 @@
 
     FDA_example.R
     
+## Лекция 16 януари
+
+Файловете за тази лекция са:
+
+    QR_v1.pdf
+    
+    QReg_16Jan18.R
+    
+    TminTmax.dat
+    
+    starsCYG.dat
