@@ -84,3 +84,9 @@
     TminTmax.dat
     
     starsCYG.dat
+
+## Лекция 19 януари (Student Regression)
+
+Файловете за тази лекция са:
+
+    hett_student_regression_19.01.2018
