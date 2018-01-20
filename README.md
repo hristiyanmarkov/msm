@@ -1,8 +1,10 @@
 # Многомерни статистически модели
 
-## Лекция 13 октомври (Least Trimmed Squares, Robust Distances)
+## Изпитът е на **26 януари от 18 часа в каб. 320**
 
-Файловете за тази лекция са:
+## [Материали в Google Drive](https://drive.google.com/open?id=0B9KPBumBXve9c1djRG10YUdYa1U)
+
+## Лекция 13 октомври (Least Trimmed Squares, Robust Distances)
 
     Lecture_FMI_13Oct_2017.pdf
 
@@ -10,41 +12,29 @@
 
 ## Лекция 27 октомври (Non-linear Regression)
 
-Скриптовете са за нелинейна регресия:
-
     nonlinear_regression_examples.R
     
     L.minor.R
     
     Chwirut2.R
     
-Файловете с данните към последните два скрипта са:
-
     L.minor.dat
     
     Chwirut2.dat
 
 ## Лекция 3 ноември (Vector Generalized Linear Models)
-
-Скриптът за тази лекция е:
-    
+  
     VGAM_iris.R
 
 ## Лекция 10 ноември (Generalized Linear Models, Poisson Regression)
-
-Файловете за тази лекция са:
     
     GLMs_10.11.2017.zip
     
 ## Лекция 22 ноември (Clustering)
 
-Файловете за тази лекция са:
-
     mixtures.22.Nov.2017.zip
     
 ## Лекция 1 декември (Vector Generalized Linear Models, Generalized Extreme Value)
-
-Файловете за тази лекция са:
 
     Annual.max.dat
     
@@ -52,16 +42,11 @@
     
 ## Лекция 19 декември (Generalized Pareto Distribution)
 
-Файловете за тази лекция са:
-
     FMI_GPD.pdf
     
     Examples_gpd_19.12.2017.R  
 
-
 ## Лекция 5 януари (Principal Components Analysis)
-
-Файловете за тази лекция са:
 
     pca_fa_example_5Jan18.R
     
@@ -69,13 +54,9 @@
     
 ## Лекция 9 януари (Mixture/Flexible Discriminant Analysis)
 
-Файловете за тази лекция са:
-
     FDA_example.R
     
 ## Лекция 16 януари (Quantile Regression)
-
-Файловете за тази лекция са:
 
     QR_v1.pdf
     
@@ -87,6 +68,4 @@
 
 ## Лекция 19 януари (Student Regression)
 
-Файловете за тази лекция са:
-
-    hett_student_regression_19.01.2018
+    hett_student_regression_19.01.2018.R
